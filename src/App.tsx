@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div className="bg-gradient-to-r from-pink-500 h-full pb-[20px] min-h-screen">
-      <header className="bg-red-500 w-full">
+      <header className="bg-pink-500 w-full">
         <div className="p-2">
           <h1 className="text-white font-bold text-xl">QR-Code Generator</h1>
         </div>
